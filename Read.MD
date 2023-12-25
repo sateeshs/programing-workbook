@@ -26,3 +26,19 @@
 
 - Arrays
 - List
+  - Accessing Individual Elements
+  - Loops and Lists
+  - Adding Elements to a List
+  - Removing Elements from a List
+  - Rearranging the Elements in a List
+  - Searching a List
+  - Lists as Return Values and Arguments
+
+## Exercise -6
+
+- Dictionaries
+  - Accessing, Modifying and Adding Values 
+  - Removing a Key-Value Pair
+  - Additional Dictionary Operations
+  - Loops and Dictionaries
+  - Dictionaries as Arguments and Return Values
