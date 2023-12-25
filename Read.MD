@@ -21,3 +21,8 @@
   - Variables in Functions
   - Return Values
   - Importing Functions into Other Programs
+
+## Exercise -5
+
+- Arrays
+- List
